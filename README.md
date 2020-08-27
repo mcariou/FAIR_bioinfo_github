@@ -2,4 +2,4 @@
 This file is associated to the FAIR_Bioinfo courses.
 
 ## Authors list:
-- Claire
+- Claire 
